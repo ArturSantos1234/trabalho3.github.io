@@ -73,7 +73,7 @@ main {
 }
 
 .legend-box {
-    cursor: default; /* Não permite clique nas boxes de legenda */
+    cursor: default;
 }
 
 .labs, .salas, .outrass {
